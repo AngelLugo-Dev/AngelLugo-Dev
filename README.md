@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Angel Lugo
 
-<!--
-**AngelLugo-Dev/AngelLugo-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi espacio en GitHub. Aquí desarrollo soluciones y comparto proyectos que reflejan mi pasión por el aprendizaje constante y la mejora continua en el mundo del desarrollo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Sobre mí
+Soy un desarrollador enfocado en construir aplicaciones sólidas y escalables utilizando tecnologías modernas. 
+
+---
+
+## 🔧 Habilidades técnicas
+- **Lenguajes**: Python, JavaScript, HTML, CSS.
+- **Frameworks**: React, Django.
+- **Herramientas**: Git, GitKraken, Linux.
+
+---
+
+## 📌 Proyectos destacados
+- **[LinguaHorizont](#)**: Rompe las barreras de idiomas traduciendo en tiempo real
+
+---
+
+## 🚀 Objetivos actuales
+- Profundizar en desarrollo full-stack.
+- Contribuir activamente en proyectos.
+- Ingenieria en Sistemas.
+
+---
+
+⭐ **Explora mis repositorios para más detalles sobre mis proyectos y contribuciones. ¡Gracias por visitar!**
+
