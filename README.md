@@ -16,11 +16,6 @@ Soy un desarrollador enfocado en construir aplicaciones sólidas y escalables ut
 
 ---
 
-## 📌 Proyectos destacados
-- **[LinguaHorizont](#)**: Rompe las barreras de idiomas traduciendo en tiempo real
-
----
-
 ## 🚀 Objetivos actuales
 - Profundizar en desarrollo full-stack.
 - Contribuir activamente en proyectos.
