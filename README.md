@@ -1,4 +1,5 @@
 # 👋 Hola, soy Angel Lugo
+### 💻 Estudiante de Ingeniería en Sistemas | Desarrollador Web en formación  
 
 Bienvenido a mi espacio en GitHub. Aquí desarrollo soluciones y comparto proyectos que reflejan mi pasión por el aprendizaje constante y la mejora continua en el mundo del desarrollo.
 
@@ -6,10 +7,16 @@ Bienvenido a mi espacio en GitHub. Aquí desarrollo soluciones y comparto proyec
 
 ## 🌟 Sobre mí
 
-Soy un desarrollador enfocado en construir aplicaciones sólidas y escalables utilizando tecnologías modernas.
+🎓 Estudiante de Ingeniería en Sistemas apasionado por el desarrollo web y la tecnología.  
+🚀 siempre aprendiendo.   
+
+Soy un desarrollador enfocado en construir aplicaciones sólidas y escalables utilizando tecnologías modernas haciendo uso de buenas practicas y siempre en busca de aprender nuevas formas de hacer las cosas.
 
 ---
+![Estadísticas de GitHub de Ángel](https://github-readme-stats.vercel.app/api?username=AngelLugo-Dev&show_icons=true&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelLugo-Dev&layout=compact&theme=radical)
 
+---
 ## 🔧 Habilidades técnicas
 
 <p align="center">
@@ -66,7 +73,10 @@ Soy un desarrollador enfocado en construir aplicaciones sólidas y escalables ut
 - Profundizar en desarrollo full-stack.
 - Contribuir activamente en proyectos.
 - Ingenieria en Sistemas.
-
+- Mejorando mis habilidades.  
+- Construyendo proyectos personales para mi portafolio.
 ---
+## 📫 Contáctame
+- ✉️ lugoangel938@gamil.com 
 
 ⭐ **Explora mis repositorios para más detalles sobre mis proyectos y contribuciones. ¡Gracias por visitar!**
