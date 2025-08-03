@@ -76,6 +76,10 @@ Soy un desarrollador enfocado en construir aplicaciones sólidas y escalables ut
 - Mejorando mis habilidades.  
 - Construyendo proyectos personales para mi portafolio.
 ---
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AngelLugo-Dev.AngelLugo-Dev" />
+</div>
+
 ## 📫 Contáctame
 - ✉️ lugoangel938@gamil.com 
 
