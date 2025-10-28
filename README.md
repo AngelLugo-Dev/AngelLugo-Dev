@@ -16,6 +16,7 @@ Soy un desarrollador enfocado en construir aplicaciones sólidas y escalables ut
 ![Estadísticas de GitHub de Ángel](https://github-readme-stats.vercel.app/api?username=AngelLugo-Dev&show_icons=true&theme=radical)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelLugo-Dev&layout=compact&theme=radical)
 
+[![Codewars Stats](https://github.r2v.ch/codewars?user=AngelLugo-Dev)](https://www.codewars.com/users/AngelLugo-Dev)
 ---
 ## 🔧 Habilidades técnicas
 
