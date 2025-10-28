@@ -84,5 +84,5 @@ Soy un desarrollador enfocado en construir aplicaciones sólidas y escalables ut
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AngelLugo-Dev.AngelLugo-Dev" />
-  [![Codewars Stats](https://codewars-stats-ignacio-cuadra.vercel.app/?username=AngelLugo-Dev&theme=dark)](https://www.codewars.com/users/AngelLugo-Dev)
+  [![Codewars Stats](https://github.r2v.ch/codewars?user=AngelLugo-Dev)](https://www.codewars.com/users/AngelLugo-Dev)
 </div>
