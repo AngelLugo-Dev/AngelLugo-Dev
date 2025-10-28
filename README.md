@@ -81,8 +81,7 @@ Soy un desarrollador enfocado en construir aplicaciones sólidas y escalables ut
 - ✉️ lugoangel938@gamil.com 
 
 ⭐ **Explora mis repositorios para más detalles sobre mis proyectos y contribuciones. ¡Gracias por visitar!**
-
+[![Codewars Stats](https://github.r2v.ch/codewars?user=AngelLugo-Dev)](https://www.codewars.com/users/AngelLugo-Dev)
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AngelLugo-Dev.AngelLugo-Dev" />
-  [![Codewars Stats](https://github.r2v.ch/codewars?user=AngelLugo-Dev)](https://www.codewars.com/users/AngelLugo-Dev)
 </div>
