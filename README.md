@@ -13,7 +13,8 @@ Bienvenido a mi espacio en GitHub. Aquí desarrollo soluciones y comparto proyec
 Soy un desarrollador enfocado en construir aplicaciones sólidas y escalables utilizando tecnologías modernas haciendo uso de buenas practicas y siempre en busca de aprender nuevas formas de hacer las cosas.
 
 
-![Estadísticas de GitHub de Ángel](https://github-readme-stats.vercel.app/api?username=AngelLugo-Dev&show_icons=true&theme=radical)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AngelLugo-Dev&show_icons=true&theme=radical)
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelLugo-Dev&layout=compact&theme=radical)
 
 ---
