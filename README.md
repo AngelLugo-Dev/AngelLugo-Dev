@@ -19,7 +19,7 @@ Combino la solidez de la ingeniería de software en el servidor con la agilidad 
 
 Infraestructura, lenguajes y herramientas que utilizo para resolver problemas complejos:
 
-### 🏛️ Backend & Core Engineering
+###  Backend & Core Engineering
 Sistemas sólidos y lógica de negocio.
 
 <p align="left">
@@ -30,7 +30,7 @@ Sistemas sólidos y lógica de negocio.
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-### ⚡ Frontend Moderno
+###  Frontend Moderno
 Interfaces rápidas y reactivas.
 
 <p align="left">
@@ -40,7 +40,7 @@ Interfaces rápidas y reactivas.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🗄️ Gestión de Datos
+###  Gestión de Datos
 Persistencia segura y optimizada.
 
 <p align="left">
@@ -62,7 +62,7 @@ Despliegue y gestión de recursos escalables.
 
 ---
 
-## 🧠 Metodología & Mindset
+## 🧠 Metodología
 
 * **Arquitectura:** MVC, RESTful APIs, Arquitectura de islas.
 * **Enfoque:** Código limpio, documentado y listo para producción.
