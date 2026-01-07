@@ -1,88 +1,92 @@
-# 👋 Hola, soy Angel Lugo
-### 💻 Estudiante de Ingeniería en Sistemas | Desarrollador Web en formación  
+# Angel Eduardo Lugo López
+### Web Developer | HTML, CSS, JavaScript | Java, C# | Git | MySQL
+> *"El código debe poder entenderse y compartirse."*
 
-Bienvenido a mi espacio en GitHub. Aquí desarrollo soluciones y comparto proyectos que reflejan mi pasión por el aprendizaje constante y la mejora continua en el mundo del desarrollo.
+Combino la solidez de la ingeniería de software en el servidor con la agilidad del frontend moderno. Mi objetivo es diseñar sistemas que sean robustos por dentro e intuitivos por fuera. Arquitectura limpia y despliegue en la nube, la repetición y la técnica superan al talento puro.
+
+---
+
+## 📊 Impacto & Métricas
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AngelLugo-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC" height="170" alt="Angel's Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AngelLugo-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC" height="170" alt="Angel's Languages" />
+</div>
 
 ---
 
-## 🌟 Sobre mí
+## 🛠️ Arsenal Técnico
 
-🎓 Estudiante de Ingeniería en Sistemas apasionado por el desarrollo web y la tecnología.  
-🚀 siempre aprendiendo.   
+Infraestructura, lenguajes y herramientas que utilizo para resolver problemas complejos:
 
-Soy un desarrollador enfocado en construir aplicaciones sólidas y escalables utilizando tecnologías modernas haciendo uso de buenas practicas y siempre en busca de aprender nuevas formas de hacer las cosas.
+### 🏛️ Backend & Core Engineering
+Sistemas sólidos y lógica de negocio.
 
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AngelLugo-Dev&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelLugo-Dev&layout=compact&theme=radical)
-
----
-## 🔧 Habilidades técnicas
-
-<p align="center">
-  <!-- Lenguajes -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://astro.build/assets/press/astro-icon-dark.svg" alt="astro" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <!-- Bases de Datos -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <!-- Herramientas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_(Flask)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-- **Lenguajes de Programación**:
-  Python, Java, C#, Tailwind CSS, JavaScript, HTML, CSS
+### ⚡ Frontend Moderno
+Interfaces rápidas y reactivas.
 
-- **Frameworks y Bibliotecas**:
-  React, Astro, Node.js
+<p align="left">
+  <img src="https://img.shields.io/badge/Astro-0C141D?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-- **Bases de Datos**:
+### 🗄️ Gestión de Datos
+Persistencia segura y optimizada.
 
-  - SQL: MySQL, PostgreSQL
-  - NoSQL: MongoDB
-  - Herramientas de Gestión:
-    - MySQL Workbench
-    - MongoDB Compass
-    - WinSCP
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-- **Herramientas de Desarrollo**:
-  - Control de Versiones: Git, GitHub, GitKraken
-  - IDEs: Android Studio, Visual Studio Code, Putty
-  - Contenedores: Docker
-  - Sistemas Operativos: Linux
+### ☁️ Cloud & Infrastructure (AWS)
+Despliegue y gestión de recursos escalables.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
 
 ---
 
-## 🚀 Objetivos actuales
+## 🧠 Metodología & Mindset
 
-- Profundizar en desarrollo full-stack.
-- Contribuir activamente en proyectos.
-- Ingenieria en Sistemas.
-- Mejorando mis habilidades.  
-- Construyendo proyectos personales para mi portafolio.
+* **Arquitectura:** MVC, RESTful APIs, Arquitectura de islas.
+* **Enfoque:** Código limpio, documentado y listo para producción.
+
 ---
 
-## 📫 Contáctame
-- ✉️ lugoangel938@gamil.com 
+## 🤝 Contacto & Redes
 
-⭐ **Explora mis repositorios para más detalles sobre mis proyectos y contribuciones. ¡Gracias por visitar!**
-[![Codewars Stats](https://github.r2v.ch/codewars?user=AngelLugo-Dev)](https://www.codewars.com/users/AngelLugo-Dev)
+¿Tienes un reto técnico interesante? Hablemos.
+
+<p align="left">
+  <a href="mailto:lugoangel938@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="www.linkedin.com/in/angel-eduardo-lugo-lópez">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AngelLugo-Dev.AngelLugo-Dev" />
+  <br>
+  <a href="https://www.codewars.com/users/AngelLugo-Dev">
+    <img src="https://github.r2v.ch/codewars?user=AngelLugo-Dev&stroke=%23B50552" alt="Codewars Stats">
+  </a>
+  <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AngelLugo-Dev.AngelLugo-Dev" alt="Visitor Count"/>
 </div>
