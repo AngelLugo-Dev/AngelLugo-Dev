@@ -15,7 +15,7 @@ Combino la solidez de la ingeniería de software en el servidor con la agilidad 
 
 ---
 
-## 🛠️ Arsenal Técnico
+## 🛠️ Competecnias Técnicas
 
 Infraestructura, lenguajes y herramientas que utilizo para resolver problemas complejos:
 
